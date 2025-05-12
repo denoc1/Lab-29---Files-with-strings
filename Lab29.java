@@ -3,7 +3,7 @@
 public class Lab29{
 
 
-    public static void main(String[] args){
+    public static void main(String[] args)  throws FileNotFoundException {
 
 
     }
